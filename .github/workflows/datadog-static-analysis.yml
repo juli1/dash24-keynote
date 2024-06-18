@@ -20,3 +20,4 @@ jobs:
         dd_site: datad0g.com
         debug: yes
         cpu_count: 2
+        diff_aware: false
