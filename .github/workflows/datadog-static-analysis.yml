@@ -18,4 +18,6 @@ jobs:
         dd_service: my-app
         dd_env: ci
         dd_site: datad0g.com
+        debug: yes
         cpu_count: 2
+        diff_aware: false
