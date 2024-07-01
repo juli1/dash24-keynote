@@ -19,3 +19,4 @@ jobs:
         dd_env: ci
         dd_site: datad0g.com
         cpu_count: 2
+        debug: yes
